@@ -38,6 +38,9 @@ namespace Calculs
                     {
                         // choix de l'addition                        
                         // saisie de la réponse
+
+
+                        // test refus
                         Console.Write(val1 + " + " + val2 + " = ");
                         reponse = int.Parse(Console.ReadLine());
                         // comparaison avec la bonne réponse
